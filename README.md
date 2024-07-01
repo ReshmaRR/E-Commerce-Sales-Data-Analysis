@@ -1,4 +1,4 @@
-# E-Commerce-Sales-Data-Analysis
+# E-Commerce-Sales-Data-Analysis Using Advanced Excel
 • Analyzed data covering 100,000+ transactions across a 1-year period, revealing trends in customer behaviour and product performance. 
 • Conducted detailed Exploratory Data Analysis using advanced Excel functions (VLookup, HLookup, Pivot Tables), processing 100000+ cells of data to extract actionable insights.
 • Developed an interactive dashboard using Excel graph features, consolidating 15+ KPIs into a single view, resulting in a 40% reduction in time spent on monthly reporting.
